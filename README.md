@@ -1,4 +1,4 @@
-<img  src="https://github.com/soosan1365/swalloweb/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner(1).jpg" align="right" alt="swalloweb" width="100%"/>
+<img  src="https://github.com/soosan1365/soosan1365/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner(1).jpg" align="right" alt="swalloweb" width="100%"/>
 <h1 align="center">Hi 👋, I'm Soosan</h1>
 <h3 align="center">A junior frontend developer from iran</h3>
 <h3 align="center">The world of programming is so fascinating that you don't notice the passage of time</h3>
