@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Ecommerc-App**
 
-- 🌱 Currently learning Node.js and Rest API to communicate effectively with the backend force**
+- 🌱 Currently learning Node.js and Rest API to communicate effectively with the backend force.
 
 - 📫 How to reach me **swalloweb1365@gmail.com**
 
